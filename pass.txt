@@ -1,0 +1,11 @@
+Your application has been set up and your
+API keys have been approved
+You are now ready to build applications with this API. We look forward to seeing what you build!
+mypay:
+921c42fa19350c72a24e4dcc355c3904
+
+
+Return URL:http://0q7.me/mypay/home.php
+Privacy Policy URL:http://0q7.me/mypay/privacypolicy.php
+Logo URL:http://0q7.me/mypay/img/logo.png
+アップロードテスト
